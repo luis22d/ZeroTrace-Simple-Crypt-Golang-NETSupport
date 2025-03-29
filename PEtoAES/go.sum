@@ -1,0 +1,4 @@
+github.com/Enelg52/Backpack v0.0.0-20220501205457-116756ce87dc h1:CtLs/cQYeKwSftBAO2VlXTQD02jbhln6cbbMbxPLuOU=
+github.com/Enelg52/Backpack v0.0.0-20220501205457-116756ce87dc/go.mod h1:qAalOCUHQaBArrxnR/8tfn58MaQkBanjRNQ2E5ECCzs=
+golang.org/x/sys v0.0.0-20220422013727-9388b58f7150 h1:xHms4gcpe1YE7A3yIllJXP16CMAGuqwO2lX1mTyyRRc=
+golang.org/x/sys v0.0.0-20220422013727-9388b58f7150/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
