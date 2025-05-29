@@ -4,7 +4,7 @@ Simple Of Crypt In Golang Supports .NET Files
 
 An advanced Go-based crypter for Windows binaries with enhanced obfuscation techniques to minimize detection.
 
-https://t.me/ZeroTraceD3V
+https://t.me/ZeroTraceOfficial
 
 
 ## Features
